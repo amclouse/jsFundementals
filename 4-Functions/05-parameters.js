@@ -3,7 +3,6 @@ function hi(name) {
 
 }
 
-
 hi('Adam');
 
 function Adam (ticket) {
@@ -30,4 +29,4 @@ function myName(first, last) {
 }
 
 
-myName('Adam', 'Clouse');
+myName('Adam', 'Clouse')

@@ -25,6 +25,6 @@ let totalTip = tipCalculator(19.84);
 console.log(totalTip)*/
 
 let tipCalculator = bill => bill * 0.2;
-let totalTip = tipCalculator(19.84);
+let totalTip = tipCalculator(27);
 
 console.log(totalTip)
